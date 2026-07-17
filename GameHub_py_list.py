@@ -1,6 +1,6 @@
 import streamlit as st
 
-lst = ["焼き鳥丼", "しらす丼", "牛丼", "ロコモコ丼"]
+lst = ["焼き鳥丼", "しらす丼", "親子丼", "ロコモコ丼"]
 
 with st.echo():
     st.write(lst)
